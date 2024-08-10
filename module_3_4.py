@@ -1,6 +1,6 @@
-a = 'Здравствуйте'
-print(a[0])
-print(a[-1])
-print(a[3:6])
-print(a[::-1])
-print(a[1::2])
+exemple = 'Топинамбур'
+print(exemple[0])
+print(exemple[-1])
+print(exemple[5:10:])
+print(exemple[::-1])
+print(exemple[1::2])
